@@ -27,11 +27,13 @@
 </h1>
 
 ✯ <ᴇxᴀᴍᴘʟᴇ :-  .ᴘʟᴜɢɪɴ ʟɪsᴛ>
+ 
+ ____________________________________________
 
-* [`AUTO REACTION`](https://gist.githubusercontent.com/Afx-Abu/1a03436abd85dac62044cda3031f1e21/raw)
+ [`AUTO REACTION`](https://gist.githubusercontent.com/Afx-Abu/1a03436abd85dac62044cda3031f1e21/raw)
 
-* [`MENTION`](https://gist.githubusercontent.com/Afx-Abu/37bb1fb16126bfd80773e866740587e5/raw)
+ [`MENTION`](https://gist.githubusercontent.com/Afx-Abu/37bb1fb16126bfd80773e866740587e5/raw)
 
-* [`ENC`](https://gist.github.com/TOXIC-KICHUX/a9f6f8ed468ffef8949339d899a2deef)
+ [`ENC`](https://gist.github.com/TOXIC-KICHUX/a9f6f8ed468ffef8949339d899a2deef)
 
 
