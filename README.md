@@ -50,5 +50,5 @@
 
  [`BRODCAST IMAGE`](https://gist.github.com/Afx-Abu/26546ebed142e445110998f7ea77168c)
 
- [`IS WA`](https://gist.github.com/Afx-Abu/26546ebed142e445110998f7ea77168c)
+ [`IS WA`](https://gist.github.com/Afx-Abu/a6bf4ad97baf8e605cddeb11e00f7eb5)
 
