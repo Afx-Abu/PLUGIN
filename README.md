@@ -58,5 +58,5 @@ ____________________________________________
  [`RINGTONE`](https://gist.github.com/Afx-Abu/09f037b5336dc8c0c1d86106c9ec8548)
 ____________________________________________
 
-[`CHAT BGM SETTER`](https://gist.github.com/Afx-Abu/631b03373a2e3fb1c3a9cecc03da906d)
+[`CHAT BGM SETTER`](https://gist.github.com/Afx-Abu/832a492c56ee02bf6a486bcea765d6d1)
 ____________________________________________
