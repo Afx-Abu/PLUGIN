@@ -84,3 +84,8 @@ ____________________________________________
 
 *Note : Bgm Sending Only Your Group Or chats*
 ____________________________________________
+
+*[`OWNER`](https://gist.github.com/Afx-Abu/aa27deccabc3d475f46422c95f073e9b)*
+
+*Note : Its send Bot Owner Contact Number*
+____________________________________________
